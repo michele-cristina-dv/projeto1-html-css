@@ -1,2 +1,2 @@
 # Tecnoblog 
-é um site com html e css 
+Um simples site utilizando html e css
